@@ -1,4 +1,5 @@
-- 👋 Hi, here is @SepineTam
+# Sepine Tam(谭淞)
+- 👋 Hi, here is @SepineTam from China
 - 👀 I’m interested in everything which is amazing
 - 🌱 I’m currently learning python, swift, and lots of theroy of economics
 - 💞️ I’m looking to collaborate on economy research on China Rural and Economics
