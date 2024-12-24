@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on economy research on China Rural and Economics
 - 📫 Mail me to sepinetam@gmail.com
 - 📧 But you' d better cc to tan22120120@shu.edu.cn
+- 🌐 Have two website, sepinetam.com & 4shuer.com (maybe it could not visit, if true visit s-tam.ghost.io)
 
 ## Some detail
 
@@ -12,7 +13,7 @@
 School of Economics, Shanghai University. 
 
 How to describe it？🤔
-Amazing school, but I have to study here.😂
+Amazing school😂
 
 ### Ability
 Wonderful creative that can' t image!
