@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on economy research on China Rural and Economics
 - 📫 Mail me to sepinetam@gmail.com
 - 📧 But you' d better cc to tan22120120@shu.edu.cn
-- 🌐 Have two website, sepinetam.com & 4shuer.com (maybe it could not visit, if true visit s-tam.ghost.io)
+- 🌐 Have two website, www.sepinetam.com & www.4shuer.com (maybe it could not visit, if true visit www.s-tam.ghost.io)
 
 ## Some detail
 
