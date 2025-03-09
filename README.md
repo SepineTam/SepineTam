@@ -9,13 +9,9 @@
 
 ## Some detail
 
-### School
-School of Economics, Shanghai University. 
+### Education
+[School of Economics](https://www.soe.shu.edu.cn), [Shanghai University](https://www.shu.edu.cn). 
 
-How to describe it？🤔
-Amazing school😂
 
 ### Ability
 Wonderful creative that can' t image!
-
-OMG! I' m tired enough to do anything! May I take a rest for myself thing?
