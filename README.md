@@ -1,6 +1,6 @@
 # Sepine Tam(谭淞)
 - 👋 Hi, here is [@SepineTam](https://github.com/sepinetam) from China
-- 🧑‍💼 CEO of Shanghai Beyes Co Ltd (We are finding friends for the future Economics Research).
+- 🧑‍💼 CEO of Shanghai Beyes Co Ltd (We are [finding friends](https://team.statamcp.com/) for the future Economics Research).
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning python, swift, and lots of rust.
 - 🔧 I think I am good at python and Stata which is necessary for Economics.
