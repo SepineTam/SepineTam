@@ -12,6 +12,7 @@
 - [Stata-MCP](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
 - [nber_cli](https://github.com/sepinetam/nber_cli), a CLI tools for user download NBER Paper freely.
 - [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
+- [DeepEcon](https://github.com/sepinetam/DeepEcon), one-stop Python package for econometric algorithms.
 
 ## Education
 [School of Economics](https://www.soe.shu.edu.cn), [Shanghai University](https://www.shu.edu.cn). 
