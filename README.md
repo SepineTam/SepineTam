@@ -1,5 +1,5 @@
 # Sepine Tam(谭淞)
-- 👋 Hi, here is [@SepineTam](https://github.com/sepinetam) [sɛˈpiːn] from Shanghai, China
+- 👋 Hi, here is [@SepineTam](https://github.com/sepinetam) *[sɛˈpiːn]* from Shanghai, China
 - 🧑‍💼 CEO of Shanghai Bayes Views Information Technology Co, Ltd. (We are [finding friends](https://team.statamcp.com/) for the Netx-gen Social Science Research).
   > 🥺 We are also finding investment for make social science research more efficient, [mail me please](mailto:sepinetam@gmail.com).
 - 👀 I’m interested in everything from the human to the moon, everything.
