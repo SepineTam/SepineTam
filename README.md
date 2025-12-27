@@ -1,12 +1,10 @@
 # Sepine Tam(谭淞)
-- 👋 Hi, here is [@SepineTam](https://github.com/sepinetam) *[sɛˈpiːn]* from Shanghai, China
-- 🧑‍💼 CEO of Shanghai Bayes Views Information Technology Co, Ltd. (We are [finding friends](https://team.statamcp.com/) for the Netx-gen Social Science Research).
-  > 🥺 We are also finding investment for make social science research more efficient, [mail me please](mailto:sepinetam@gmail.com).
+- 👋 Hi, here is [@SepineTam](https://github.com/sepinetam) *[sɛˈpiːn]* from Shanghai China
 - 👀 I’m interested in everything from the human to the moon, everything.
 - 🌱 Mainly coding with Python 🐍, and a little Rust 🦀, Swift 🐦‍🔥 and Java 🫘
 - 💞️ I’m looking to collaborate on economy research on China Economics.
-- 📫 You can find me with eamil to [sepinetam@gmail.com](mailto:sepinetam@gmail.com), by the way you'd better cc to sepine@statamcp.com in case of the web error.
-- 🌐 Have two website, www.sepinetam.com & www.ai4cssci.com, yes but ... I am too lazy to update them on time.
+- 📫 You can find me with eamil to [sepinetam@gmail.com](mailto:sepinetam@gmail.com)
+- 🧱 Major in Labor Economics, Family Sociology, and a little AI for Science (I guess 🤣).
 
 ## Products
 - [Stata-MCP](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
