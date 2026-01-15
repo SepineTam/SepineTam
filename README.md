@@ -12,6 +12,8 @@
 - [openai-api-polling](https://github.com/sepinetam/openai-api-polling), one step to use different API.  
 - [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
 
+<!--
 ## GitHub Overview
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=sepinetam&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true' width="380px" />
 <img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sepinetam&count_private=true&include_all_commits=true&layout=compact&hide=c,cpp,jinja,fortran,html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="370px" />
+-->
