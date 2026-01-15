@@ -9,6 +9,7 @@
 ## Products
 - [Stata-MCP](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
 - [nber_cli](https://github.com/sepinetam/nber_cli), a CLI tools for user download NBER Paper freely.
+- [openai-api-polling](https://github.com/sepinetam/openai-api-polling), one step to use different API.  
 - [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
 
 ## GitHub Overview
