@@ -4,7 +4,7 @@
 - 🌱 Mainly coding with Python 🐍, and a little Rust 🦀, Swift 🐦‍🔥 and Java 🫘
 - 💞️ I’m looking to collaborate on economy research on China Economics.
 - 📫 You can find me with eamil to [sepinetam@gmail.com](mailto:sepinetam@gmail.com)
-- 🧱 Major in Labor Economics, Family Sociology, and a little AI for Social Science (I guess 🤣).
+- 🧱 Major in Labor Economics (gender, population), Family Sociology, and a little AI for Social Science (I guess 🤣).
 
 ## Products
 - [Stata-MCP](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
