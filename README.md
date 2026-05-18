@@ -12,14 +12,13 @@
 - [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for user download NBER Paper freely.
 - [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
 
-<!--
-## GitHub Overview
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=sepinetam&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true' width="380px" />
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sepinetam&count_private=true&include_all_commits=true&layout=compact&hide=c,cpp,jinja,fortran,html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="370px" />
--->
-
 ## WeChat Channel (微信公众号)
 Welcome to subscribe my channel in WeChat, get more share and information. 
 
 <img width="1710" height="624" alt="扫码_搜索联合传播样式-白色版" src="https://github.com/user-attachments/assets/a3bf3172-caa9-4ffd-bf56-8de34543dadf" />
 
+<!--
+## GitHub Overview
+<img align="left" src='https://github-readme-stats.vercel.app/api?username=sepinetam&count_private=true&include_all_commits=true&theme=graywhite&show_icons=true&hide_title=true' width="380px" />
+<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sepinetam&count_private=true&include_all_commits=true&layout=compact&hide=c,cpp,jinja,fortran,html,javascript,typescript,astro,jupyter%20notebook,css,stylus,svelte,less' width="370px" />
+-->
