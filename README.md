@@ -7,7 +7,7 @@
 - 🧱 Major in Labor Economics (gender, population), Family Sociology, and a little AI for Social Science (I guess 🤣).
 
 ## Products
-- [Stata-MCP](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
+- [mcp-for-stata](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
 - [Tabra](https://github.com/sepinetam/tabra), a python package for easy regression like using Stata. 
 - [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for user download NBER Paper freely.
 - [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
