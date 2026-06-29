@@ -7,15 +7,15 @@
 - 🧱 Major in Labor Economics (gender, population), Family Sociology, and a little AI for Social Science (I guess 🤣).
 
 ## Products
-- [mcp-for-stata](https://github.com/sepinetam/stata-mcp), a tools for AI auto-using Stata.
+- [mcp-for-stata](https://github.com/sepinetam/stata-mcp), a set of tool to connect Stata into Agent.
 - [Tabra](https://github.com/sepinetam/tabra), a python package for easy regression like using Stata. 
-- [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for user download NBER Paper freely.
-- [TexIV](https://github.com/sepinetam/texiv), a ML-based method to explore variables from text without coding.
+- [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for users to reach NBER papers without brower.
+- [TexIV](https://github.com/sepinetam/texiv), an embedding ML-based method to explore variables from text without coding.
 
 ## WeChat Channel (微信公众号)
 Welcome to subscribe my channel in WeChat, get more share and information. 
 
-<img width="1710" height="624" alt="扫码_搜索联合传播样式-白色版" src="https://github.com/user-attachments/assets/a3bf3172-caa9-4ffd-bf56-8de34543dadf" />
+<img width="1710" height="624" alt="Sepine's 芝研骗语 WeChat Group QRcode" src="https://github.com/user-attachments/assets/a3bf3172-caa9-4ffd-bf56-8de34543dadf" />
 
 <!--
 ## GitHub Overview
