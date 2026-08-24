@@ -3,13 +3,14 @@
 - 👀 I’m interested in everything from the human to the moon, everything.
 - 🌱 Mainly coding with Python 🐍, and a little Rust 🦀, Swift 🐦‍🔥 and Java 🫘
 - 💞️ I’m looking to collaborate on economy research on China Economics.
-- 📫 You can find me with eamil to [sepinetam@gmail.com](mailto:sepinetam@gmail.com)
-- 🧱 Major in Labor Economics (gender, population), Family Sociology, and ~~a little~~ MAINLY AI4SS (from agent as RAs to LLMs-Driven ABM and World Model in Social Science).
+- 📫 You can find me at [sepinetam.com](https://www.sepinetam.com) and contact me with email to [sepinetam@gmail.com](mailto:sepinetam@gmail.com)
+- 🧱 Major in Labor Economics (gender, population), Family Sociology, and ~~a little~~ MAINLY AI4SS (from agent as RAs to LLMs-Driven ABM and Social World Model). -> Learn more about AI4SS? [Click here](https://aidea-labs.com)
 
 ## Products
+- [Data Identity Protocol](https://dip.aidea-labs.com), a common protocol for giving data an identity.
 - [mcp-for-stata](https://github.com/sepinetam/stata-mcp), a set of tool to connect Stata into Agent.
 - [Tabra](https://github.com/sepinetam/tabra), a python package for easy regression like using Stata. 
-- [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for users to reach NBER papers without brower.
+- [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for users to reach NBER papers without browser.
 - [TexIV](https://github.com/sepinetam/texiv), an embedding ML-based method to explore variables from text without coding.
 
 ## Stats Charts
