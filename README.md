@@ -16,7 +16,7 @@
 ## WeChat Channel (微信公众号)
 Welcome to subscribe my channel in WeChat, get more share and information. 
 
-<img width="1710" height="624" alt="Sepine's 芝研骗语 WeChat Group QRcode" src="https://github.com/user-attachments/assets/a3bf3172-caa9-4ffd-bf56-8de34543dadf" />
+<img width="1710" height="624" alt="Sepine's WeChat Group 公众号 芝研骗语" src="https://github.com/user-attachments/assets/a3bf3172-caa9-4ffd-bf56-8de34543dadf" />
 
 <!--
 ## GitHub Overview
