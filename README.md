@@ -13,10 +13,6 @@
 - [NBER-CLI](https://github.com/sepinetam/nber-cli), a CLI tools for users to reach NBER papers without browser.
 - [TexIV](https://github.com/sepinetam/texiv), an embedding ML-based method to explore variables from text without coding.
 
-## Stats Charts
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sepinetam&theme=tokyo-night&hide_border=true&area=true)
-
-
 ## WeChat Channel (微信公众号)
 Welcome to subscribe my channel in WeChat, get more share and information. 
 
